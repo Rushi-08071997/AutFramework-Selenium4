@@ -31,7 +31,6 @@
 			<version>7.9.0</version>
 		</dependency>
 
-		<!-- WebDriverManager -->
 		<!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
 		<dependency>
 			<groupId>io.github.bonigarcia</groupId>
